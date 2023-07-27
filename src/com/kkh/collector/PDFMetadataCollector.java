@@ -23,8 +23,7 @@ public class PDFMetadataCollector implements MetadataCollector {
 
 	}
 
-	@Override
-	public void print() {
+	@Overridesdafsadfasdfss
 		String fetchType = fetchMetadata.getFetchType();
 		System.out.println("PDF Exporting data to" + fetchType);
 
