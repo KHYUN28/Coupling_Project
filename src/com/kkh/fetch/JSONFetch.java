@@ -19,7 +19,7 @@ public class JSONFetch implements FetchMetadata {
         }
         return instance;
     }
-	
+	//asdasdsadsada
 	@Override
 	public String getFetchType() {		
 		return this.fetchType;
