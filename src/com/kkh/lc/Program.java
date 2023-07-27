@@ -11,7 +11,8 @@ import com.kkh.fetch.JSONFetch;
 import com.kkh.fetch.XMLFetch;
 
 public class Program {
-   
+
+   //주석을 넣어보겠습니다.
    public static void setMetadataCollector(MetadataCollector mdcollector,
          FetchMetadata fetchMetadata, 
          ExportMetadata exportMetadata) {
