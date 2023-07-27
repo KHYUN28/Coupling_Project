@@ -24,7 +24,7 @@ public class PDFExport implements ExportMetadata {
 	public String getExportType() {
 		return this.exportType;
 	}
-
+	// conflict 를 발생 시키기
 	@Override
 	public File export(List<Object> metadata) {
 		System.out.println("PDF Exporting data...");
