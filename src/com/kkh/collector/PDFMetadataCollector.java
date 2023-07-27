@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.kkh.export.ExportMetadata;
 import com.kkh.fetch.FetchMetadata;
-
+//fdsfasdgs
 public class PDFMetadataCollector implements MetadataCollector {
 	
 	private FetchMetadata fetchMetadata;
